@@ -1,5 +1,5 @@
 ### Check out my article on "Host a static website using AWS CloudFront with S3 & ALB as origins"
-https://medium.com/@kennyangjy/host-a-static-website-using-AWS-CloudFront-with-S3-&-ALB-as-origins
+https://medium.com/@kennyangjy/host-a-static-website-using-aws-cloudfront-with-s3-alb-as-origins-9c68255bd72c
 
 <img src="./CloudFront_w_S3_and_ALB_origins.jpg"  width="70%" height="70%">
 
